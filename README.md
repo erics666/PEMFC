@@ -1,7 +1,7 @@
 
 # PEMFC（Modeling of Proton Exchange Membrane Fuel Cell and Super Capacitor Hybird System）
 -----------------------------------------------------------------------------------------
-    Purpose
+    Purpose:
 <br>
         1.Completed the establishment and simulation of the Simulink model
 <br>
